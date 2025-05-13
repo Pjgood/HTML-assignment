@@ -1,0 +1,44 @@
+h1, h2, h3 {
+    font-family: "Verdana", sans-serif;
+    text-decoration: underline;
+    text-decoration-color: #503f94;
+}
+
+h1 span, h2 span, h3 span {
+    background-color: #118181;
+    color: #503f94;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 28pt;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: left;
+    font-size: 20pt;
+    font-weight: normal;
+}
+
+h3 {
+    text-align: left;
+    font-size: 20pt;
+    font-weight: normal;
+}
+
+a {
+    color: #503f94;
+}
+
+p {
+    width:1000px;
+}
+body {
+    background-color: white;
+    color: black;
+    font-size: 14pt;
+    font-family: Georgia, 'Garamond', Times, serif;
+}
